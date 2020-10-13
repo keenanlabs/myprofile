@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://akurniawan.com/sitemap.xml
