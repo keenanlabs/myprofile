@@ -1,15 +1,15 @@
 {
-  "name": "Akhmad Ghofarudin Kurniawan",
+  "name": "akhmad ghofarudin kurniawan",
   "private": true,
-  "author": " Kurniawan <cs@justapp.id>",
-  "title": "Justapp.id",
-  "description": "Situs Yang Berisi Keluh Kesah Menjadi Seorang Publisher Mobile Apps Sekaligus Menjadi Ceo di JustApp",
+  "author": " kurniawan <cs@justapp.id>",
+  "title": "justapp.id",
+  "description": "situs yang berisi keluh kesah menjadi seorang publisher mobile apps sekaligus menjadi ceo di justapp",
   "homepage": "https://justapp.id",
   "repository": "git@github.com:keenanlabs/myprofile.git",
   "version": "0.1.0",
-  "license": "MIT",
+  "license": "mit",
   "main": "n/a",
-  "baseUrl": "https://justapp.id",
+  "baseurl": "https://justapp.id",
   "dependencies": {
     "@babel/core": "^7.6.0",
     "@emotion/core": "^10.0.17",
@@ -59,7 +59,7 @@
     "typography": "^0.16.19",
     "url-join": "^4.0.1"
   },
-  "devDependencies": {
+  "devdependencies": {
     "babel-eslint": "^10.0.3",
     "cli-glob": "^0.1.0",
     "eslint": "^6.6.0",
@@ -81,11 +81,11 @@
     "write-good": "^1.0.2"
   },
   "keywords": [
-    "Akhmad Ghofarudin Kurniawan",
-    "JustApp",
-    "Ceo Justapp",
-    "Mobile Apps Builder",
-    "Buat Aplikasi Android"
+    "akhmad ghofarudin kurniawan",
+    "justapp",
+    "ceo justapp",
+    "mobile apps builder",
+    "buat aplikasi android"
   ],
   "scripts": {
     "build": "gatsby build",
@@ -93,14 +93,14 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "test": "echo \"write tests! -> https://gatsby.dev/unit-testing\"",
     "clean": "rm -rf public && rm -rf .cache",
     "format-output": "prettier src/**/*.{js,jsx}",
     "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
     "lint": "eslint src/**/*.{js,jsx}",
     "shorten": "netlify-shortener"
   },
-  "remarkConfig": {
+  "remarkconfig": {
     "plugins": [
       "remark-preset-lint-recommended"
     ]
