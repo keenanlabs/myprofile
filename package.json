@@ -59,7 +59,7 @@
     "typography": "^0.16.19",
     "url-join": "^4.0.1"
   },
-  "devdependencies": {
+  "devDependencies": {
     "babel-eslint": "^10.0.3",
     "cli-glob": "^0.1.0",
     "eslint": "^6.6.0",
