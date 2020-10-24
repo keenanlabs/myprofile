@@ -24,6 +24,7 @@ Saya belajar sendiri bagaimana membuat Aplikasi Android & iOS pertama sebagai ho
 
 - [JustApp](https://justapp.id)
 - [Forum](https://forum.justapp.id)
+- [Privacy Policy Generator](https://privacy-policy-generator.justapp.id/)
 
 ## Hobi
 

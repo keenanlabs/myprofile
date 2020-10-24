@@ -14,6 +14,9 @@ import photo from '../../content/images/me.png'
 import interviews from '../data/interviews'
 import Guides from '../components/Guides'
 
+import links from '../data/links'
+
+import Linksguides from '../components/Linksguides'
 
 
 
@@ -70,6 +73,10 @@ export default class Index extends Component {
             <h2>Tulisan</h2>
             <PostListing simple postEdges={popularPostEdges} />
           </section>
+          {/* <h2>Links</h2>
+            <section >
+            <Linksguides data={links} />
+              </section> */}
             <h2>Wawancara</h2>
             <section >
             <Guides data={interviews} />
